@@ -1,7 +1,5 @@
 
-class adele_goldberg 
+class Person
   adele_goldberg = "Adele  Goldberg"
-end
-class alan_kay 
   alan_kay = "Alan Kay"
 end
